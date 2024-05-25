@@ -17,7 +17,7 @@ A simple sentiment analysis tool using Python and TextBlob that classifies user-
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Sentiment-Analyzer.git
+   git clone https://github.com/Bellatrix24/Sentiment-Analyzer.git
    cd Sentiment-Analyzer
 2. **Install Dependencies**:
     ```bash
@@ -27,8 +27,10 @@ A simple sentiment analysis tool using Python and TextBlob that classifies user-
    ```bash
    python sentiment_analyzer.py
 2. **Enter the Text**:
+   
    You will be prompted to enter the text you want to analyze.
-3. **View the Result**:
+4. **View the Result**:
+   
    The script will output whether the sentiment of the text is positive, negative, or neutral.
 ## Example
 Please enter the text you'd like to assess for sentiment: I love programming!
